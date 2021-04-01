@@ -1,0 +1,8 @@
+{
+ "name": "gwb-app",
+ "version": "0.0.1",
+ "devDependencies": {
+  "gulp": "^4.0.2",
+  "wiredep": "^4.0.0"
+ }
+}

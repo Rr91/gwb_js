@@ -1,0 +1,8 @@
+{
+  "name": "gwb-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "1.8",
+    "normalize.css": "^8.0.1"
+  }
+}
